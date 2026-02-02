@@ -277,9 +277,9 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 ## 👨‍💻 Author
 
-**Eshwar**
-- GitHub: [@eshwar-21](https://github.com/eshwar-21)
-- Email: eshwar@example.com
+**Dilliswari**
+- GitHub: [@shivan-dhilli](https://github.com/shivan-dhilli)
+- Email:  dilliswari03@gmail.com  
 
 ---
 
